@@ -1,0 +1,58 @@
+.bgimg{
+    background-image: url("./bg.PNG");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 0;
+}
+.headingh{
+    color: beige;
+    padding: 40px;
+    padding-top: 50px;
+    margin: 0;
+    padding-top: 120px;
+}
+.p{
+    padding-left: 20px;
+}
+.TEXT{
+    padding-left: 20px;
+    padding-top: 20px;
+}
+.h{
+    background-color:rgb(249, 246, 243);
+    padding: 10px;
+}
+.cont{
+    justify-content: left;
+    display: flex;
+    padding-bottom: 200px;
+    
+    
+}
+.profilea{
+    background-color: rgb(246, 226, 201);
+    width: 270px;
+    height: 424px;
+    margin : 40px;
+    border-radius: 15px;
+}
+.profile-image{
+    background-color: black;
+    height: 180px;
+    background-size: cover;
+    border-radius: 15px 15px 0 0;
+}
+.profile1{
+    background-image: url("https://images.news18.com/ibnkhabar/uploads/2022/06/hpp.jpg");
+    background-size: cover;
+}
+.style{
+    
+    background-color: black;
+    padding: 6px;
+    
+    color: white;
+    border-radius: 5px;
+    text-decoration:wavy;
+    
+}

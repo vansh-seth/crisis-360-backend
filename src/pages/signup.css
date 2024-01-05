@@ -1,0 +1,134 @@
+
+  
+  .box {
+    
+    width: 100%;
+    background: #ffffff00;
+    display: flex;
+    align-items: stretch;
+    background-image:url("./bglogin.jpeg"); 
+    /* box-shadow: 0 0 20px 6px #090b6f85; */
+  }
+  
+  
+  .box .noi {
+    background-color: #ffffff00;
+    width:70%;
+    margin-top: 25%;
+    background-size:850px;
+    background-repeat: no-repeat;
+    /* background-image:url("https://image.freepik.com/free-vector/gift-shopping-checklist-girl-cartoon-character-buying-presents-online-e-commerce-gift-card-promotion-birthday-anniversary-bonus_335657-77.jpg"); */
+     /* overflow: hidden; */
+  }
+  
+  
+  .box .koi {
+    padding: 60px;
+    background-color: #ffffff00;
+    width:100%;
+  /* background-image:url("C:\Users\bunty\Downloads\59380306-988D-47B1-9092-FF40B025A01B-removebg-preview.png"); */
+    background-size: 28%;;
+    background-repeat: no-repeat;
+    background-position-x: 100%;
+  }
+  
+  .box .koi h5 {
+    font-size: 5vmax;
+    color: rgb(31, 1, 31);
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+    line-height: 0;
+  }
+  
+  .box .koi input {
+    margin-left: 200px;
+    width: 50%;
+    padding: 7px;
+    margin-top: 25px;
+    font-size: 15px;
+    font-family: "Times New Roman", Times, serif;
+    border: none;
+color: black;
+    border-bottom: 2px solid #B0B3B9;
+  }
+  .box .koi select {
+    width: 400px;
+    padding: 10px;
+    margin-top: 25px;
+    color: rgb(125, 108, 125);
+    margin-left: 200px;
+    font-size: 13px;
+    font-family: "Times New Roman", Times, serif;
+    border: none;
+    border-bottom: 2px solid #B0B3B9;
+
+}
+  .box .koi .R {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .box .koi button2 {
+  
+    color: #ffffff;
+    font-size: 25px;
+    padding: 12px 35px;
+    border-radius: 10px;
+    /* text-align:right; */
+    font-family: "Times New Roman", Times, serif;
+    /* border: 0; */
+    box-shadow: 0px 4px 20px 0px #000000a6;
+    margin-left: 39%;
+    background-image: linear-gradient(135deg, #ff0000 10%, #610000 100%);  
+}
+  .koi .woi
+  {
+    color:aliceblue;
+    font-size: 5vmax;
+    font-family: "Times New Roman", Times, serif;
+     text-align:center;
+     padding-top: 70px;
+
+
+
+  }
+  .box .noi soi
+  {
+    color:aliceblue;
+  font-size: 6vmax;
+  margin-left:6%;
+  font-family: "Times New Roman", Times, serif;
+
+  
+  }
+  /* .box .noi toi
+  {
+    color:aliceblue;
+    font-family: "Times New Roman", Times, serif;
+
+    font-size: 4vmax;
+    margin-left:30%;
+  } */
+
+  .box .noi coo
+  {
+    color:aliceblue;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 4vmax;
+    text-align:justify;
+    margin-left:8%;
+    /* margin-right: 5%; */
+    text-align:right;
+
+  }
+  .box .noi poo
+  {
+    color:aliceblue;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 4vmax;
+    text-align:justify;
+    margin-left:35%;
+    /* margin-right: 5%; */
+    text-align:right;
+
+  }
