@@ -69,3 +69,57 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+# Crisis 360 Backend
+
+Crisis 360 Backend is a repository designed to support Crisis 360, a web application aimed at providing real-time crisis management and response solutions. This backend repository serves as the core engine for the Crisis 360 application, handling various functionalities such as user authentication, data storage, and retrieval.
+
+## Features
+
+- **User Authentication**: Secure user authentication system allowing registered users to log in securely.
+- **Data Management**: Efficient storage and retrieval of crisis-related data, ensuring quick access to critical information during emergencies.
+- **Real-time Updates**: Utilizes real-time communication protocols to provide instant updates and notifications to users and administrators.
+- **Scalability**: Built with scalability in mind to handle large volumes of data and users during crisis situations.
+- **Modular Architecture**: Designed with a modular architecture, allowing for easy integration with other systems and components.
+
+## Technologies Used
+
+- **Node.js**: Backend server runtime environment.
+- **Express.js**: Web application framework for Node.js, facilitating the development of robust APIs.
+- **MongoDB**: NoSQL database for efficient storage and retrieval of crisis-related data.
+- **Socket.IO**: Real-time bidirectional event-based communication library for implementing instant updates and notifications.
+- **JSON Web Tokens (JWT)**: Used for secure authentication and authorization of users.
+- **bcrypt**: Library for hashing passwords to enhance security.
+
+## Getting Started
+
+To get started with Crisis 360 Backend, follow these steps:
+
+1. **Clone the Repository**: 
+    ```bash
+    git clone https://github.com/vansh-seth/crisis-360-backend.git
+    ```
+
+2. **Install Dependencies**:
+    ```bash
+    cd crisis-360-backend
+    npm install
+    ```
+
+3. **Set Up Environment Variables**:
+    Create a `.env` file in the root directory and configure environment variables such as database connection details and JWT secret key.
+
+4. **Run the Server**:
+    ```bash
+    npm start
+    ```
+
+5. **Testing**:
+    Use tools like Postman or Curl to test the endpoints. Refer to the API documentation for detailed information on available endpoints and their functionalities.
+
+
+## Contributors
+
+- [Vansh Seth](https://github.com/vansh-seth)
