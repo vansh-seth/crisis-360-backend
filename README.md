@@ -129,3 +129,4 @@ To get started with Crisis 360 Backend, follow these steps:
 
 ![image](https://github.com/vansh-seth/crisis-360-backend/assets/111755254/33f13f89-e595-4701-8b9c-b7593b188a4a)
 
+![image](https://github.com/vansh-seth/crisis-360-backend/assets/111755254/c09859fe-356b-4a08-8338-4eb0660d22e0)
